@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ajmos\\Documents\\GitHub\\Slow_Drive\\MyProject3 5.3\\Intermediate\\Source\\MyProject3.Build.cs",
+		"C:\\Users\\Ajmos\\Documents\\GitHub\\Slow_Drive\\MyProject3 5.3\\Intermediate\\Source\\MyProject3.Target.cs",
+		"C:\\Users\\Ajmos\\Documents\\GitHub\\Slow_Drive\\MyProject3 5.3\\Intermediate\\Source\\MyProject3Client.Target.cs",
+		"C:\\Users\\Ajmos\\Documents\\GitHub\\Slow_Drive\\MyProject3 5.3\\Intermediate\\Source\\MyProject3Editor.Target.cs",
+		"C:\\Users\\Ajmos\\Documents\\GitHub\\Slow_Drive\\MyProject3 5.3\\Intermediate\\Source\\MyProject3Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

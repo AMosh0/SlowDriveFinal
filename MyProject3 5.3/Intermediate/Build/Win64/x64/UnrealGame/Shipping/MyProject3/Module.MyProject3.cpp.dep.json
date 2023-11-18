@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ajmos\\documents\\github\\slow_drive\\myproject3 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject3\\module.myproject3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ajmos\\documents\\github\\slow_drive\\myproject3 5.3\\intermediate\\build\\win64\\x64\\myproject3\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\ajmos\\documents\\github\\slow_drive\\myproject3 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject3\\definitions.myproject3.h",
+            "c:\\users\\ajmos\\documents\\github\\slow_drive\\myproject3 5.3\\intermediate\\source\\myproject3.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

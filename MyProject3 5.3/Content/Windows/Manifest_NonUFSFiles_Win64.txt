@@ -1,0 +1,16 @@
+MyProject3/Binaries/Win64/D3D12/D3D12Core.dll	2023-10-20T15:13:37.501Z
+MyProject3/Binaries/Win64/MyProject3-Win64-Shipping.exe	2023-10-29T08:34:37.224Z
+MyProject3/Binaries/Win64/OpenImageDenoise.dll	2023-10-20T16:02:48.915Z
+MyProject3/Binaries/Win64/tbb.dll	2023-10-20T15:13:05.218Z
+MyProject3/Binaries/Win64/tbb12.dll	2023-10-20T16:02:30.990Z
+MyProject3/Binaries/Win64/tbbmalloc.dll	2023-10-20T15:13:05.226Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-10-20T15:24:24.353Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-10-20T15:11:26.008Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-10-20T15:13:16.536Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-10-20T15:13:17.684Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-10-20T15:13:17.709Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-10-20T15:13:37.483Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-10-20T15:13:37.484Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-10-20T15:13:37.682Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-10-20T15:17:30.515Z
+MyProject3.exe	2023-10-29T09:01:43.782Z
