@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/KOScreen.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/A3_ALPHA_DRAFT_Level1.umap",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Human_Damage/SKM_Manny_Damage.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/CONTROLS_UI.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT1.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT2.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT3.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT4.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT5.uasset",
+				"C:/Users/karin/Documents/GitHub/SlowDriveFinal/MyProject3 5.3/Content/Widgets/Drinking_TEXT6.uasset",
+>>>>>>> e91d3b6d09e3945a6e14f6443b942c6238bbd97f
 				"C:/Users/Admin/Desktop/3D design and animation/GPF104/Slow_Drive/MyProject3 5.3/Content/A2_Draft_Level.umap",
 				"C:/Users/Admin/Desktop/3D design and animation/GPF104/Slow_Drive/MyProject3 5.3/Content/Pillar_Damage.uasset",
 				"C:/Users/Admin/Desktop/3D design and animation/GPF104/Slow_Drive/MyProject3 5.3/Content/Damage_Blank.uasset",
